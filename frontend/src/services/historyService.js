@@ -1,7 +1,7 @@
 // historyService.js
 import axios from 'axios';
 
-const BASE_URL = '/api/history';
+const BASE_URL = '/api/v1/history';
 const historyService = {
   getAllHistoryByTps: async (tpsId) => {
     try {

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = '/api/villages';
+const BASE_URL = '/api/v1/villages';
 
 const villageService = {
   getAllVillageByDistrictId: async (districtId) => {

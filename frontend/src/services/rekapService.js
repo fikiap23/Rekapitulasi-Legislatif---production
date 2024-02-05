@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = '/api/rekap';
+const BASE_URL = '/api/v1/rekap';
 
 const rekapService = {
   getAllDistrictsWithRekapVotes: async () => {

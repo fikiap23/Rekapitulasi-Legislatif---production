@@ -1,19 +1,11 @@
 import path from 'path';
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react-swc';
-import checker from 'vite-plugin-checker';
 
 // ----------------------------------------------------------------------
 
 export default defineConfig({
-  plugins: [
-    react(),
-    checker({
-      eslint: {
-        lintCommand: 'eslint "./src/**/*.{js,jsx,ts,tsx}"',
-      },
-    }),
-  ],
+  plugins: [react()],
   resolve: {
     alias: [
       {
@@ -31,7 +23,7 @@ export default defineConfig({
     // Get rid of the CORS error
     proxy: {
       '/api': {
-        target: 'http://localhost:3000/api/v1',
+        target: 'http://localhost:3000',
         changeOrigin: true,
         secure: false,
       },

@@ -1,7 +1,7 @@
 // adminDistrictService.js
 import axios from 'axios';
 
-const BASE_URL = '/api/districts';
+const BASE_URL = '/api/v1/districts';
 
 const districtService = {
   getAllDistricts: async () => {
