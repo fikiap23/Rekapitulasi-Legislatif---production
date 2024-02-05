@@ -28,6 +28,14 @@ export default defineConfig({
   },
   server: {
     port: 3030,
+    // Get rid of the CORS error
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000/api/v1',
+        changeOrigin: true,
+        secure: false,
+      },
+    },
   },
   preview: {
     port: 3030,

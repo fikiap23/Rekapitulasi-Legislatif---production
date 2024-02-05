@@ -1,7 +1,7 @@
 // authService.js
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000/api/v1/auth';
+const BASE_URL = '/api/auth';
 
 const authService = {
   signupAdmin: async (userData) => {

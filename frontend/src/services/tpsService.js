@@ -1,7 +1,7 @@
 // tpsService.js
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000/api/v1/tps';
+const BASE_URL = '/api/tps';
 
 const tpsService = {
   fillBallots: async (tpsId, validBallots) => {

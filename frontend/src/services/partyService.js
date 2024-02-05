@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000/api/v1/parties';
+const BASE_URL = '/api/parties';
 
 const partyService = {
   getAllParties: async () => {
