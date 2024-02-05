@@ -64,4 +64,4 @@ cara deploy di vps
 32. jalankan: git add . && git commit -m "message" && git push rekapitulasi
 33. masuk kembali ke cmd vps dan jalankan ulang
 34. forever start --uid="rekapitulasi" --sourceDir="/root/apps/rekapitulasi/dest/" backend/server.js
-35. done
+35. done1
