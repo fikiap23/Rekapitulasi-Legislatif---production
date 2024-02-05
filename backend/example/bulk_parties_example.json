@@ -1,0 +1,24 @@
+[
+  {
+    "code": "P1",
+    "name": "Party One",
+    "number_party": 1,
+    "path": "/party-one",
+    "logoUrl": "https://example.com/party-one-logo.png",
+    "candidates": [
+      { "name": "Candidate 1", "gender": "Male" },
+      { "name": "Candidate 2", "gender": "Female" }
+    ]
+  },
+  {
+    "code": "P2",
+    "name": "Party Two",
+    "number_party": 2,
+    "path": "/party-two",
+    "logoUrl": "https://example.com/party-two-logo.png",
+    "candidates": [
+      { "name": "Candidate A", "gender": "Male" },
+      { "name": "Candidate B", "gender": "Female" }
+    ]
+  }
+]

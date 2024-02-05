@@ -1,0 +1,1968 @@
+{
+  "status": "success",
+  "code": 200,
+  "message": "Voting results for all villages retrieved successfully",
+  "data": {
+    "total_invalid_ballots": 44100,
+    "total_valid_ballots": 3709,
+    "total_voters": 2655214,
+    "valid_ballots_detail": [
+      {
+        "party_id": "65a9040480206b6a737609b2",
+        "total_votes_party": 807,
+        "name": "Partai Persatuan Indonesia (PERINDO)",
+        "code": "PERINDO",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/16/Perindo.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a737609b3",
+            "number_of_votes": 123,
+            "candidate_data": {
+              "name": "Triawibawa, S.E., M.M.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609b3",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b4",
+            "number_of_votes": 114,
+            "candidate_data": {
+              "name": "Heri Rusli, S.H., M.Kn.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609b4",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b5",
+            "number_of_votes": 105,
+            "candidate_data": {
+              "name": "Linda Sukmawati, S.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609b5",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b6",
+            "number_of_votes": 96,
+            "candidate_data": {
+              "name": "Deni Poniman",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609b6",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b7",
+            "number_of_votes": 87,
+            "candidate_data": {
+              "name": "Tri Setiowati, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609b7",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b8",
+            "number_of_votes": 78,
+            "candidate_data": {
+              "name": "Dini Hendrianto, S.E.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609b8",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b9",
+            "number_of_votes": 69,
+            "candidate_data": {
+              "name": "Drs. Syamsu Alam Tirham, M.Si.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609b9",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ba",
+            "number_of_votes": 59,
+            "candidate_data": {
+              "name": "Arjoni Eka Putra, S.T.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609ba",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609bb",
+            "number_of_votes": 43,
+            "candidate_data": {
+              "name": "Bhekti Rahmawati",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609bb",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609bc",
+            "number_of_votes": 33,
+            "candidate_data": {
+              "name": "Jamotan Manurung, S.Si.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609bc",
+              "createdAt": "2024-01-18T10:57:08.842Z",
+              "updatedAt": "2024-01-18T10:57:08.842Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a7376099d",
+        "total_votes_party": 89,
+        "name": "Partai Demokrat (DEMOKRAT)",
+        "code": "DEMOKRAT",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/14/Demokrat.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a7376099e",
+            "number_of_votes": 24,
+            "candidate_data": {
+              "name": "Toni Setiawan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376099e",
+              "createdAt": "2024-01-18T10:57:08.838Z",
+              "updatedAt": "2024-01-18T10:57:08.838Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376099f",
+            "number_of_votes": 23,
+            "candidate_data": {
+              "name": "Saeful Bachri, S.H., M.A.P.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376099f",
+              "createdAt": "2024-01-18T10:57:08.838Z",
+              "updatedAt": "2024-01-18T10:57:08.838Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a0",
+            "number_of_votes": 16,
+            "candidate_data": {
+              "name": "Rina Malistiani, S.E.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609a0",
+              "createdAt": "2024-01-18T10:57:08.838Z",
+              "updatedAt": "2024-01-18T10:57:08.838Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a1",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Tuti Surtiati",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609a1",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a2",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Ery Djuwono",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609a2",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a3",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Marsya Chantika Putri",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609a3",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a4",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Dr. Uswarno, M.Si.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609a4",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a5",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Eddy Mulyadi, S.H., M.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609a5",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a6",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Mutiara Tresna Munggarani",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609a6",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609a7",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Julianita Panca Putri, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609a7",
+              "createdAt": "2024-01-18T10:57:08.839Z",
+              "updatedAt": "2024-01-18T10:57:08.839Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760928",
+        "total_votes_party": 492,
+        "name": "Partai Gerakan Indonesia Raya (GERINDRA)",
+        "code": "GERINDRA",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/2/Gerindra.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760929",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "H. Taufik Hidayat, S.H., M.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760929",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092a",
+            "number_of_votes": 14,
+            "candidate_data": {
+              "name": "Endah Suwarni, S.H., M.Kn.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376092a",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092b",
+            "number_of_votes": 24,
+            "candidate_data": {
+              "name": "Donny Akbar",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376092b",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092d",
+            "number_of_votes": 244,
+            "candidate_data": {
+              "name": "Dadang Sukmawijaya, S.H., M.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376092d",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092c",
+            "number_of_votes": 43,
+            "candidate_data": {
+              "name": "Tetty Garniawaty, A.Md.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376092c",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092e",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "Dr. Krisbiyantoro",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376092e",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376092f",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Rama Dhini Salsabila Anggraeni",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376092f",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760930",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Diki Muhammad Ramdan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760930",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760931",
+            "number_of_votes": 22,
+            "candidate_data": {
+              "name": "AA Sarip",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760931",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760932",
+            "number_of_votes": 11,
+            "candidate_data": {
+              "name": "Jajang Junaedi, S.Sos.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760932",
+              "createdAt": "2024-01-18T10:57:08.802Z",
+              "updatedAt": "2024-01-18T10:57:08.802Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760949",
+        "total_votes_party": 753,
+        "name": "Partai Nasional Demokrat (NASDEM)",
+        "code": "NASDEM",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/5/Nasdem.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a7376094a",
+            "number_of_votes": 521,
+            "candidate_data": {
+              "name": "Dra. Hj. Tia Fitriani",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376094a",
+              "createdAt": "2024-01-18T10:57:08.809Z",
+              "updatedAt": "2024-01-18T10:57:08.809Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376094b",
+            "number_of_votes": 23,
+            "candidate_data": {
+              "name": "H. Agus Yasmin",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376094b",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376094c",
+            "number_of_votes": 43,
+            "candidate_data": {
+              "name": "Rully Rizkiansah",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376094c",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376094d",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Resty Krisna Savitri, S.E.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376094d",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376094e",
+            "number_of_votes": 34,
+            "candidate_data": {
+              "name": "Supriatna, S.T.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376094e",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376094f",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "H. Jajang Suherman, M.M.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376094f",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760950",
+            "number_of_votes": 43,
+            "candidate_data": {
+              "name": "Derry Ariyandi",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760950",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760951",
+            "number_of_votes": 21,
+            "candidate_data": {
+              "name": "Ai Kasmillah",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760951",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760952",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Lili Muslihat, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760952",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760953",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "R. Januardi Saddam Husein",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760953",
+              "createdAt": "2024-01-18T10:57:08.810Z",
+              "updatedAt": "2024-01-18T10:57:08.810Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760933",
+        "total_votes_party": 365,
+        "name": "Partai Demokrasi Indonesia Perjuangan (PDI)",
+        "code": "PDI",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/3/PDIP.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760935",
+            "number_of_votes": 131,
+            "candidate_data": {
+              "name": "Hj. Nia Purnakania, S.H., M.Kn.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760935",
+              "createdAt": "2024-01-18T10:57:08.803Z",
+              "updatedAt": "2024-01-18T10:57:08.803Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760934",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "S. Apriyanto Wijaya",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760934",
+              "createdAt": "2024-01-18T10:57:08.803Z",
+              "updatedAt": "2024-01-18T10:57:08.803Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760936",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "H. Dadan Konjala, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760936",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760937",
+            "number_of_votes": 56,
+            "candidate_data": {
+              "name": "Adyesa Kevindra Albari",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760937",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760938",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "BRM Puspo Wiryo Buwono",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760938",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760939",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Neng Yuyun, S.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760939",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376093a",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "Komar Hermawan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376093a",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376093b",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Dewi Anggraeni",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376093b",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376093c",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Zaenal Arifin",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376093c",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376093d",
+            "number_of_votes": 21,
+            "candidate_data": {
+              "name": "Dr. Rana Rudiana, S.Sos., M.Si.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376093d",
+              "createdAt": "2024-01-18T10:57:08.804Z",
+              "updatedAt": "2024-01-18T10:57:08.804Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a7376091d",
+        "total_votes_party": 205,
+        "name": "Partai Kebangkitan Bangsa (PKB)",
+        "code": "PKB",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/1/PKB.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a7376091e",
+            "number_of_votes": 20,
+            "candidate_data": {
+              "name": "Humaira Zahrotun Noor",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376091e",
+              "createdAt": "2024-01-18T10:57:08.799Z",
+              "updatedAt": "2024-01-18T10:57:08.799Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376091f",
+            "number_of_votes": 15,
+            "candidate_data": {
+              "name": "Asep Syamsudin, S.Ag.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376091f",
+              "createdAt": "2024-01-18T10:57:08.799Z",
+              "updatedAt": "2024-01-18T10:57:08.799Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760920",
+            "number_of_votes": 21,
+            "candidate_data": {
+              "name": "R. Imbar Utsman, S.S.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760920",
+              "createdAt": "2024-01-18T10:57:08.799Z",
+              "updatedAt": "2024-01-18T10:57:08.799Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760921",
+            "number_of_votes": 22,
+            "candidate_data": {
+              "name": "H. Imron Rosyadi, S.Ag.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760921",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760922",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "Putri Tahta Fadilah, M.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760922",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760923",
+            "number_of_votes": 22,
+            "candidate_data": {
+              "name": "Cecep Hidayat, M.T.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760923",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760924",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "M. Sahlan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760924",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760925",
+            "number_of_votes": 21,
+            "candidate_data": {
+              "name": "Rika Merisha Winarni",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760925",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760926",
+            "number_of_votes": 15,
+            "candidate_data": {
+              "name": "Tatang Suhara, S.T.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760926",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760927",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Zaky Salman Raliby",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760927",
+              "createdAt": "2024-01-18T10:57:08.800Z",
+              "updatedAt": "2024-01-18T10:57:08.800Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a7376093e",
+        "total_votes_party": 316,
+        "name": "Partai Golongan Karya (GOLKAR)",
+        "code": "GOLKAR",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/4/Golkar.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a7376093f",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "H. Sugianto, S.Ag., M.Si.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376093f",
+              "createdAt": "2024-01-18T10:57:08.806Z",
+              "updatedAt": "2024-01-18T10:57:08.806Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760940",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Dr. Hj. Cucu Sugyati, S.E., M.M.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760940",
+              "createdAt": "2024-01-18T10:57:08.806Z",
+              "updatedAt": "2024-01-18T10:57:08.806Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760941",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "H. Asep Deni Ramdani, A.Md., S.I.P.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760941",
+              "createdAt": "2024-01-18T10:57:08.807Z",
+              "updatedAt": "2024-01-18T10:57:08.807Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760942",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Ahmad Hidayat, S.I.Kom.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760942",
+              "createdAt": "2024-01-18T10:57:08.807Z",
+              "updatedAt": "2024-01-18T10:57:08.807Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760943",
+            "number_of_votes": 56,
+            "candidate_data": {
+              "name": "H. Agung Yansusan Sudarwin, S.Ag., S.T.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760943",
+              "createdAt": "2024-01-18T10:57:08.807Z",
+              "updatedAt": "2024-01-18T10:57:08.807Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760944",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Neneng Cucu Sadiah, S.Pd., M.M.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760944",
+              "createdAt": "2024-01-18T10:57:08.808Z",
+              "updatedAt": "2024-01-18T10:57:08.808Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760945",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Drs. Nandang Saptari, M.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760945",
+              "createdAt": "2024-01-18T10:57:08.808Z",
+              "updatedAt": "2024-01-18T10:57:08.808Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760946",
+            "number_of_votes": 14,
+            "candidate_data": {
+              "name": "Muhammad Syamsul Arifin, S.Sy.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760946",
+              "createdAt": "2024-01-18T10:57:08.808Z",
+              "updatedAt": "2024-01-18T10:57:08.808Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760947",
+            "number_of_votes": 56,
+            "candidate_data": {
+              "name": "Amelia Febriani, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760947",
+              "createdAt": "2024-01-18T10:57:08.808Z",
+              "updatedAt": "2024-01-18T10:57:08.808Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760948",
+            "number_of_votes": 45,
+            "candidate_data": {
+              "name": "Pdt. Dr. Drs. Jamanarik Lumban Raja N., M.Th.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760948",
+              "createdAt": "2024-01-18T10:57:08.808Z",
+              "updatedAt": "2024-01-18T10:57:08.808Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760954",
+        "total_votes_party": 264,
+        "name": "Partai Buruh",
+        "code": "PARTAI BURUH",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/6/Buruh.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760955",
+            "number_of_votes": 43,
+            "candidate_data": {
+              "name": "Asep Iwan Sobandi",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760955",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760956",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Haernist H. H. Siahaan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760956",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760957",
+            "number_of_votes": 21,
+            "candidate_data": {
+              "name": "Juangsih",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760957",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760958",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Ani Meliani",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760958",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760959",
+            "number_of_votes": 56,
+            "candidate_data": {
+              "name": "Hidayah, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760959",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376095a",
+            "number_of_votes": 65,
+            "candidate_data": {
+              "name": "Pandji Budi Santosa, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376095a",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376095b",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Adhinda Khiky Lestari Pakpahan, S.E.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376095b",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376095c",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Erik Pratama O. Pakpahan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376095c",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376095d",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Bobby Arianto Pakpahan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376095d",
+              "createdAt": "2024-01-18T10:57:08.812Z",
+              "updatedAt": "2024-01-18T10:57:08.812Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a7376095e",
+        "total_votes_party": 33,
+        "name": "Gelombang Rakyat Indonesia (GELORA)",
+        "code": "GELORA",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/7/Gelora.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a7376095f",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Ir. H. Abdurrachim Santosa",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376095f",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760960",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Dadang Kurniawan, S.I.P., M.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760960",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760961",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Lida Maulida Nuraeniyah, S.Kom.I., M.Sos.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760961",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760962",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Wardoli",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760962",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760963",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Niesye Retniasih, S.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760963",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760964",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Pahmi Misbahudin",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760964",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760965",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Rudi Darmawan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760965",
+              "createdAt": "2024-01-18T10:57:08.822Z",
+              "updatedAt": "2024-01-18T10:57:08.822Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760966",
+        "total_votes_party": 55,
+        "name": "Partai Keadilan Sejahtera (PKS)",
+        "code": "PKS",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/8/PKS.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760967",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "H. Jajang Rohana, S.Pd.I.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760967",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760968",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Hj. Sari Sundari, S.Sos., M.M.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760968",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760969",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Tedi Surahman, S.E.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760969",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096a",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Dr. H. Nandang Koswara, M.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376096a",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096b",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Mattin Santika Saepul Rinaldi, S.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376096b",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096c",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Dra. Hj. Lenny Oemar, M.Pd.I.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376096c",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096d",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Muhammad Yusuf Abdullah, S.Sos.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376096d",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096e",
+            "number_of_votes": 8,
+            "candidate_data": {
+              "name": "Dr. H. Tonton Taufik Rachman, S.T., M.B.A.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376096e",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376096f",
+            "number_of_votes": 9,
+            "candidate_data": {
+              "name": "Dra. Sri Wiyanti, M.Pd.I.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376096f",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760970",
+            "number_of_votes": 10,
+            "candidate_data": {
+              "name": "Dana Vega Supriatna, S.E",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760970",
+              "createdAt": "2024-01-18T10:57:08.824Z",
+              "updatedAt": "2024-01-18T10:57:08.824Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760971",
+        "total_votes_party": 15,
+        "name": "Partai Kebangkitan Nusantara",
+        "code": "PARTAI KEBANGKITAN NUSANTARA",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/9/PKN.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760972",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Mohamad Romli",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760972",
+              "createdAt": "2024-01-18T10:57:08.825Z",
+              "updatedAt": "2024-01-18T10:57:08.825Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760973",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Rika Nuraini, S.E.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760973",
+              "createdAt": "2024-01-18T10:57:08.825Z",
+              "updatedAt": "2024-01-18T10:57:08.825Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760974",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Harry Haswidy, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760974",
+              "createdAt": "2024-01-18T10:57:08.825Z",
+              "updatedAt": "2024-01-18T10:57:08.825Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760975",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Astried Rosdiana",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760975",
+              "createdAt": "2024-01-18T10:57:08.825Z",
+              "updatedAt": "2024-01-18T10:57:08.825Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760976",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Dani Mulyana, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760976",
+              "createdAt": "2024-01-18T10:57:08.826Z",
+              "updatedAt": "2024-01-18T10:57:08.826Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760977",
+        "total_votes_party": 126,
+        "name": "Partai Hati Nurani Rakyat (HANURA)",
+        "code": "HANURA",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/10/Hanura.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760978",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Budi Hermansyah, S.S.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760978",
+              "createdAt": "2024-01-18T10:57:08.826Z",
+              "updatedAt": "2024-01-18T10:57:08.826Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760979",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "H. Muhammad Sya'dudin, S.Si., S.Pd.I.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760979",
+              "createdAt": "2024-01-18T10:57:08.826Z",
+              "updatedAt": "2024-01-18T10:57:08.826Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097a",
+            "number_of_votes": 8,
+            "candidate_data": {
+              "name": "Hj. Nuki Hestia, S.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376097a",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097b",
+            "number_of_votes": 9,
+            "candidate_data": {
+              "name": "Anto Widiyanto",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376097b",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097c",
+            "number_of_votes": 10,
+            "candidate_data": {
+              "name": "Lody Gunawan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376097c",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097d",
+            "number_of_votes": 12,
+            "candidate_data": {
+              "name": "Diana Handayani",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376097d",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097e",
+            "number_of_votes": 13,
+            "candidate_data": {
+              "name": "Sri Rahayu, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376097e",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376097f",
+            "number_of_votes": 14,
+            "candidate_data": {
+              "name": "Syahroni",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376097f",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760980",
+            "number_of_votes": 15,
+            "candidate_data": {
+              "name": "Tonny, S.E.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760980",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760981",
+            "number_of_votes": 32,
+            "candidate_data": {
+              "name": "Siska Anatika",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760981",
+              "createdAt": "2024-01-18T10:57:08.827Z",
+              "updatedAt": "2024-01-18T10:57:08.827Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760982",
+        "total_votes_party": 14,
+        "name": "Partai Garda Republik Indonesia (GARUDA)",
+        "code": "GARUDA",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/11/Garuda.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760983",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Pian Irawan",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760983",
+              "createdAt": "2024-01-18T10:57:08.828Z",
+              "updatedAt": "2024-01-18T10:57:08.828Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760984",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Al Azhar",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760984",
+              "createdAt": "2024-01-18T10:57:08.828Z",
+              "updatedAt": "2024-01-18T10:57:08.828Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760985",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Margareth Martina Fau",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760985",
+              "createdAt": "2024-01-18T10:57:08.828Z",
+              "updatedAt": "2024-01-18T10:57:08.828Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760986",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Sri Dewi",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760986",
+              "createdAt": "2024-01-18T10:57:08.828Z",
+              "updatedAt": "2024-01-18T10:57:08.828Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760987",
+        "total_votes_party": 15,
+        "name": "Partai Amanat Nasional (PAN)",
+        "code": "PAN",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/12/PAN.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760988",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Hj. Thoriqoh Nashrullah Fitriyah, S.T., M.E.Sy.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760988",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760989",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Nisya Ahmad",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760989",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098a",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Syamsul Bachri Day, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376098a",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098b",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Asep Kurnia",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376098b",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098c",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Tegar Triadi",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376098c",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098d",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Endang Mundjiani, S.Pd.Aud.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376098d",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098e",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Brigjen TNI (Purn.) Rahmat Triyono, S.E.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376098e",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376098f",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Tatang Muhram Sajaah, S.Pd.I., M.M.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376098f",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760990",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "Dini Wahyuni Apriliyanti",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760990",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760991",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Fadhil Muhammad Ghifari, S.H.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760991",
+              "createdAt": "2024-01-18T10:57:08.829Z",
+              "updatedAt": "2024-01-18T10:57:08.829Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a73760992",
+        "total_votes_party": 30,
+        "name": "Partai Bulan Bintang (PBB)",
+        "code": "PBB",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/13/PBB.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a73760993",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Ajat Sudrajat",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760993",
+              "createdAt": "2024-01-18T10:57:08.834Z",
+              "updatedAt": "2024-01-18T10:57:08.834Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760994",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Drs. Abdul Bari",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760994",
+              "createdAt": "2024-01-18T10:57:08.834Z",
+              "updatedAt": "2024-01-18T10:57:08.834Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760995",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Siti Romlah, S.Pd.I.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760995",
+              "createdAt": "2024-01-18T10:57:08.835Z",
+              "updatedAt": "2024-01-18T10:57:08.835Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760996",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Dr. Daeng Ramang",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760996",
+              "createdAt": "2024-01-18T10:57:08.835Z",
+              "updatedAt": "2024-01-18T10:57:08.835Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760997",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Aep Kholif, S.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a73760997",
+              "createdAt": "2024-01-18T10:57:08.835Z",
+              "updatedAt": "2024-01-18T10:57:08.835Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760998",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Enok Melani Hadiyanti",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760998",
+              "createdAt": "2024-01-18T10:57:08.835Z",
+              "updatedAt": "2024-01-18T10:57:08.835Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a73760999",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Yuyun Supriyatin, S.Sos.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a73760999",
+              "createdAt": "2024-01-18T10:57:08.836Z",
+              "updatedAt": "2024-01-18T10:57:08.836Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376099a",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Neng Heni, S.Pd.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a7376099a",
+              "createdAt": "2024-01-18T10:57:08.836Z",
+              "updatedAt": "2024-01-18T10:57:08.836Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376099b",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Amunuloh",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376099b",
+              "createdAt": "2024-01-18T10:57:08.836Z",
+              "updatedAt": "2024-01-18T10:57:08.836Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a7376099c",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Gunawan Mansyur, S.Pd.I.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a7376099c",
+              "createdAt": "2024-01-18T10:57:08.836Z",
+              "updatedAt": "2024-01-18T10:57:08.836Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a737609a8",
+        "total_votes_party": 44,
+        "name": "Partai Solidaritas Indonesia (PSI)",
+        "code": "PSI",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/15/PSI.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a737609a9",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Erwin Rada Damanik",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609a9",
+              "createdAt": "2024-01-18T10:57:08.840Z",
+              "updatedAt": "2024-01-18T10:57:08.840Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609aa",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Dr. Ir. John Sihotang",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609aa",
+              "createdAt": "2024-01-18T10:57:08.840Z",
+              "updatedAt": "2024-01-18T10:57:08.840Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ab",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Sri Wahyunengsih S., S.S.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609ab",
+              "createdAt": "2024-01-18T10:57:08.840Z",
+              "updatedAt": "2024-01-18T10:57:08.840Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ac",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Awi Jaya",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609ac",
+              "createdAt": "2024-01-18T10:57:08.840Z",
+              "updatedAt": "2024-01-18T10:57:08.840Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ad",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Muhammad Rizaly, S.M.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609ad",
+              "createdAt": "2024-01-18T10:57:08.841Z",
+              "updatedAt": "2024-01-18T10:57:08.841Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ae",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Rosdiana Situmorang",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609ae",
+              "createdAt": "2024-01-18T10:57:08.841Z",
+              "updatedAt": "2024-01-18T10:57:08.841Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609af",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Aep Dadang",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609af",
+              "createdAt": "2024-01-18T10:57:08.841Z",
+              "updatedAt": "2024-01-18T10:57:08.841Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b0",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Herlin Julian Dini",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609b0",
+              "createdAt": "2024-01-18T10:57:08.841Z",
+              "updatedAt": "2024-01-18T10:57:08.841Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609b1",
+            "number_of_votes": 8,
+            "candidate_data": {
+              "name": "Ade Budiman",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609b1",
+              "createdAt": "2024-01-18T10:57:08.841Z",
+              "updatedAt": "2024-01-18T10:57:08.841Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a737609bd",
+        "total_votes_party": 50,
+        "name": "Partai Persatuan Pembangunan (PPP)",
+        "code": "PPP",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/17/PPP.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a737609be",
+            "number_of_votes": 1,
+            "candidate_data": {
+              "name": "H. Didin Saepudin",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609be",
+              "createdAt": "2024-01-18T10:57:08.843Z",
+              "updatedAt": "2024-01-18T10:57:08.843Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609bf",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Imam Alamsyah, S.Pd.I., M.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609bf",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c0",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Hj. Wafa Shofiyatul Huda, S.Ag.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609c0",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c1",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Acep Yusup, S.Pd.I.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609c1",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c2",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Ade Zakaria, S.Pd.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609c2",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c3",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Herni Widia Astuti",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609c3",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c4",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Hanipah Yulia",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609c4",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c5",
+            "number_of_votes": 8,
+            "candidate_data": {
+              "name": "Faiz Muhamad Nur Rojab",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609c5",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c6",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "Yuni Yulianti, S.H.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609c6",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609c7",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "H. Saaduddin Hidayatulloh",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609c7",
+              "createdAt": "2024-01-18T10:57:08.844Z",
+              "updatedAt": "2024-01-18T10:57:08.844Z"
+            }
+          }
+        ]
+      },
+      {
+        "party_id": "65a9040480206b6a737609c8",
+        "total_votes_party": 36,
+        "name": "Partai Ummat",
+        "code": "UMMAT",
+        "logoUrl": "https://goodkind-bucket04939-dev.s3.ap-southeast-1.amazonaws.com/public/assets/constant/partai/24/Ummat.svg",
+        "candidates": [
+          {
+            "candidate_id": "65a9040480206b6a737609c9",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Jajang Ading Sutarma",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609c9",
+              "createdAt": "2024-01-18T10:57:08.846Z",
+              "updatedAt": "2024-01-18T10:57:08.846Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ca",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Agus Sugiarto",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609ca",
+              "createdAt": "2024-01-18T10:57:08.846Z",
+              "updatedAt": "2024-01-18T10:57:08.846Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609cb",
+            "number_of_votes": 2,
+            "candidate_data": {
+              "name": "Tjandra Palupi",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609cb",
+              "createdAt": "2024-01-18T10:57:08.846Z",
+              "updatedAt": "2024-01-18T10:57:08.846Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609cc",
+            "number_of_votes": 3,
+            "candidate_data": {
+              "name": "Ir. Yana Karyana Syafe'i",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609cc",
+              "createdAt": "2024-01-18T10:57:08.846Z",
+              "updatedAt": "2024-01-18T10:57:08.846Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609cd",
+            "number_of_votes": 4,
+            "candidate_data": {
+              "name": "Tri Yanti",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609cd",
+              "createdAt": "2024-01-18T10:57:08.850Z",
+              "updatedAt": "2024-01-18T10:57:08.850Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609ce",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "Gilsa Pratiyustia Amri, S.I.Kom.",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609ce",
+              "createdAt": "2024-01-18T10:57:08.850Z",
+              "updatedAt": "2024-01-18T10:57:08.850Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609cf",
+            "number_of_votes": 5,
+            "candidate_data": {
+              "name": "H. P. Bagus Pamungkas",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609cf",
+              "createdAt": "2024-01-18T10:57:08.850Z",
+              "updatedAt": "2024-01-18T10:57:08.850Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609d0",
+            "number_of_votes": 6,
+            "candidate_data": {
+              "name": "Marissa Aisyiah",
+              "gender": "Female",
+              "_id": "65a9040480206b6a737609d0",
+              "createdAt": "2024-01-18T10:57:08.850Z",
+              "updatedAt": "2024-01-18T10:57:08.850Z"
+            }
+          },
+          {
+            "candidate_id": "65a9040480206b6a737609d1",
+            "number_of_votes": 7,
+            "candidate_data": {
+              "name": "H. Alit Nurul Hayat, S.S.",
+              "gender": "Male",
+              "_id": "65a9040480206b6a737609d1",
+              "createdAt": "2024-01-18T10:57:08.850Z",
+              "updatedAt": "2024-01-18T10:57:08.850Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "error": null
+}

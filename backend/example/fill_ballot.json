@@ -1,0 +1,28 @@
+[
+  {
+    "party_id": "65b914ba71db665010f8fd1e",
+    "candidates": [
+      {
+        "candidate_id": "65b914ba71db665010f8fd1f",
+        "number_of_votes": 120
+      },
+      {
+        "candidate_id": "65b914ba71db665010f8fd20",
+        "number_of_votes": 130
+      }
+    ]
+  },
+  {
+    "party_id": "65b914ba71db665010f8fd29",
+    "candidates": [
+      {
+        "candidate_id": "65b914ba71db665010f8fd2a",
+        "number_of_votes": 50
+      },
+      {
+        "candidate_id": "65b914ba71db665010f8fd2b",
+        "number_of_votes": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "ARJASARI",
+    "code": "ARJASARI_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "LEBAKWANGI",
+    "code": "LEBAKWANGI_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "BATUKARUT",
+    "code": "BATUKARUT_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "ANCOLMEKAR",
+    "code": "ANCOLMEKAR_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "BAROS",
+    "code": "BAROS_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "MANGUNJAYA",
+    "code": "MANGUNJAYA_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "MEKARJAYA",
+    "code": "MEKARJAYA_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "PINGGIRSARI",
+    "code": "PINGGIRSARI_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "PATROLSARI",
+    "code": "PATROLSARI_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "RANCAKOLE",
+    "code": "RANCAKOLE_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "WARGALUYU",
+    "code": "WARGALUYU_CODE",
+    "district_code": "18"
+  },
+  {
+    "name": "BALEENDAH",
+    "code": "BALEENDAH_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "ANDIR",
+    "code": "ANDIR_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "MANGGAHANG",
+    "code": "MANGGAHANG_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "JELEKONG",
+    "code": "JELEKONG_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "WARGAMEKAR",
+    "code": "WARGAMEKAR_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "BOJONGMALAKA",
+    "code": "BOJONGMALAKA_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "RANCAMANYAR",
+    "code": "RANCAMANYAR_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "MALAKASARI",
+    "code": "MALAKASARI_CODE",
+    "district_code": "17"
+  },
+  {
+    "name": "KAMASAN",
+    "code": "KAMASAN_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "BANJARAN WETAN",
+    "code": "BANJARAN WETAN_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "BANJARAN",
+    "code": "BANJARAN_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "CIAPUS",
+    "code": "CIAPUS_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "SINDANGPANON",
+    "code": "SINDANGPANON_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "KIANGROKE",
+    "code": "KIANGROKE_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "TARAJUSARI",
+    "code": "TARAJUSARI_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "MARGAHURIP",
+    "code": "MARGAHURIP_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "NEGLASARI",
+    "code": "NEGLASARI_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "PASIRMULYA",
+    "code": "PASIRMULYA_CODE",
+    "district_code": "19"
+  },
+  {
+    "name": "LENGKONG",
+    "code": "LENGKONG_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "BOJONGSOANG",
+    "code": "BOJONGSOANG_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "BUAHBATU",
+    "code": "BUAHBATU_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "CIPAGALO",
+    "code": "CIPAGALO_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "BOJONGSARI",
+    "code": "BOJONGSARI_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "TEGALLUAR",
+    "code": "TEGALLUAR_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "CANGKUANG",
+    "code": "CANGKUANG_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "CILUNCAT",
+    "code": "CILUNCAT_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "NAGRAK",
+    "code": "NAGRAK_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "BANDASARI",
+    "code": "BANDASARI_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "PANANJUNG",
+    "code": "PANANJUNG_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "JATISARI",
+    "code": "JATISARI_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "TANJUNGSARI",
+    "code": "TANJUNGSARI_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "CICALENGKA KULON",
+    "code": "CICALENGKA KULON_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "CICALENGKA WETAN",
+    "code": "CICALENGKA WETAN_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "BABAKAN PEUTEUY",
+    "code": "BABAKAN PEUTEUY_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "CIKUYA",
+    "code": "CIKUYA_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "DAMPIT",
+    "code": "DAMPIT_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "MARGAASIH",
+    "code": "MARGAASIH_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "NARAWITA",
+    "code": "NARAWITA_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "PANENJOAN",
+    "code": "PANENJOAN_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "TANJUNGWANGI",
+    "code": "TANJUNGWANGI_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "TENJOLAYA",
+    "code": "TENJOLAYA_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "WALUYA",
+    "code": "WALUYA_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "NAGROG",
+    "code": "NAGROG_CODE",
+    "district_code": "11"
+  },
+  {
+    "name": "MANDALASARI",
+    "code": "MANDALASARI_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "CIKANCUNG",
+    "code": "CIKANCUNG_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "CIKASUNGKA",
+    "code": "CIKASUNGKA_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "CIHANYIR",
+    "code": "CIHANYIR_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "CILULUK",
+    "code": "CILULUK_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "HEGARMANAH",
+    "code": "HEGARMANAH_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "MEKARLAKSANA",
+    "code": "MEKARLAKSANA_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "TANJUNGLAYA",
+    "code": "TANJUNGLAYA_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "SRIRAHAYU",
+    "code": "SRIRAHAYU_CODE",
+    "district_code": "10"
+  },
+  {
+    "name": "JATIENDAH",
+    "code": "JATIENDAH_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "CILENGKRANG",
+    "code": "CILENGKRANG_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "CIPANJALU",
+    "code": "CIPANJALU_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "MELATIWANGI",
+    "code": "MELATIWANGI_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "CIPOREAT",
+    "code": "CIPOREAT_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "GIRIMEKAR",
+    "code": "GIRIMEKAR_CODE",
+    "district_code": "30"
+  },
+  {
+    "name": "CILEUNYI KULON",
+    "code": "CILEUNYI KULON_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CILEUNYI WETAN",
+    "code": "CILEUNYI WETAN_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CIMEKAR",
+    "code": "CIMEKAR_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CINUNUK",
+    "code": "CINUNUK_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CIBIRU HILIR",
+    "code": "CIBIRU HILIR_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CIBIRU WETAN",
+    "code": "CIBIRU WETAN_CODE",
+    "district_code": "29"
+  },
+  {
+    "name": "CIMAUNG",
+    "code": "CIMAUNG_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "JAGABAYA",
+    "code": "JAGABAYA_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "PASIRHUNI",
+    "code": "PASIRHUNI_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "CAMPAKAMULYA",
+    "code": "CAMPAKAMULYA_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "CIPINANG",
+    "code": "CIPINANG_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "MEKARSARI",
+    "code": "MEKARSARI_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "SUKAMAJU",
+    "code": "SUKAMAJU_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "CIKALONG",
+    "code": "CIKALONG_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "MALASARI",
+    "code": "MALASARI_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "WARJABAKTI",
+    "code": "WARJABAKTI_CODE",
+    "district_code": "04"
+  },
+  {
+    "name": "PADASUKA",
+    "code": "PADASUKA_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "CIBEUNYING",
+    "code": "CIBEUNYING_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "CIMENYAN",
+    "code": "CIMENYAN_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "MANDALAMEKAR",
+    "code": "MANDALAMEKAR_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "CIKADUT",
+    "code": "CIKADUT_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "CIBURIAL",
+    "code": "CIBURIAL_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "SINDANGLAYA",
+    "code": "SINDANGLAYA_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "MEKARSALUYU",
+    "code": "MEKARSALUYU_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "MEKARMANIK",
+    "code": "MEKARMANIK_CODE",
+    "district_code": "31"
+  },
+  {
+    "name": "CIPARAY",
+    "code": "CIPARAY_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "GUNUNGLEUTIK",
+    "code": "GUNUNGLEUTIK_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "CIKONENG",
+    "code": "CIKONENG_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "CIHEULANG",
+    "code": "CIHEULANG_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "PAKUTANDANG",
+    "code": "PAKUTANDANG_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "SUMBERSARI",
+    "code": "SUMBERSARI_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "MANGGUNGHARJA",
+    "code": "MANGGUNGHARJA_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "SAGARACIPTA",
+    "code": "SAGARACIPTA_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "SARIMAHI",
+    "code": "SARIMAHI_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "SERANGMEKAR",
+    "code": "SERANGMEKAR_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "BABAKAN",
+    "code": "BABAKAN_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "BUMIWANGI",
+    "code": "BUMIWANGI_CODE",
+    "district_code": "16"
+  },
+  {
+    "name": "LEBAKMUNCANG",
+    "code": "LEBAKMUNCANG_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "CIWIDEY",
+    "code": "CIWIDEY_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "NENGKELAN",
+    "code": "NENGKELAN_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "PANUNDAAN",
+    "code": "PANUNDAAN_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "PANYOCOKAN",
+    "code": "PANYOCOKAN_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "RAWABOGO",
+    "code": "RAWABOGO_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "SUKAWENING",
+    "code": "SUKAWENING_CODE",
+    "district_code": "01"
+  },
+  {
+    "name": "PASAWAHAN",
+    "code": "PASAWAHAN_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "DAYEUHKOLOT",
+    "code": "DAYEUHKOLOT_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "CANGKUANG WETAN",
+    "code": "CANGKUANG WETAN_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "CANGKUANG KULON",
+    "code": "CANGKUANG KULON_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "SUKAPURA",
+    "code": "SUKAPURA_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "CITEUREUP",
+    "code": "CITEUREUP_CODE",
+    "district_code": "20"
+  },
+  {
+    "name": "IBUN",
+    "code": "IBUN_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "LAKSANA",
+    "code": "LAKSANA_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "DUKUH",
+    "code": "DUKUH_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "TALUN",
+    "code": "TALUN_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "PANGGUH",
+    "code": "PANGGUH_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "LAMPEGAN",
+    "code": "LAMPEGAN_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "MEKARWANGI",
+    "code": "MEKARWANGI_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "SUDI",
+    "code": "SUDI_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "TANGGULUN",
+    "code": "TANGGULUN_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "CIBEET",
+    "code": "CIBEET_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "KARYALAKSANA",
+    "code": "KARYALAKSANA_CODE",
+    "district_code": "08"
+  },
+  {
+    "name": "SANGKANHURIP",
+    "code": "SANGKANHURIP_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "KATAPANG",
+    "code": "KATAPANG_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "GANDASARI",
+    "code": "GANDASARI_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "SUKAMUKTI",
+    "code": "SUKAMUKTI_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "CILAMPENI",
+    "code": "CILAMPENI_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "PANGAUBAN",
+    "code": "PANGAUBAN_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "BANYUSARI",
+    "code": "BANYUSARI_CODE",
+    "district_code": "22"
+  },
+  {
+    "name": "CIBEUREUM",
+    "code": "CIBEUREUM_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "SANTOSA",
+    "code": "SANTOSA_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "TARUMAJAYA",
+    "code": "TARUMAJAYA_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "NEGLAWANGI",
+    "code": "NEGLAWANGI_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "CIHAWUK",
+    "code": "CIHAWUK_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "CIKEMBANG",
+    "code": "CIKEMBANG_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "RESMI TINGAL",
+    "code": "RESMI TINGAL_CODE",
+    "district_code": "06"
+  },
+  {
+    "name": "JELEGONG",
+    "code": "JELEGONG_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "PAMEUNTASAN",
+    "code": "PAMEUNTASAN_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "KOPO",
+    "code": "KOPO_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "CIBODAS",
+    "code": "CIBODAS_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "KUTAWARINGIN",
+    "code": "KUTAWARINGIN_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "SUKAMULYA",
+    "code": "SUKAMULYA_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "BUNINAGARA",
+    "code": "BUNINAGARA_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "GAJAH MEKAR",
+    "code": "GAJAH MEKAR_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "CILAME",
+    "code": "CILAME_CODE",
+    "district_code": "24"
+  },
+  {
+    "name": "MAJALAYA",
+    "code": "MAJALAYA_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "WANGISAGARA",
+    "code": "WANGISAGARA_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "BIRU",
+    "code": "BIRU_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "PADAMULYA",
+    "code": "PADAMULYA_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "BOJONG",
+    "code": "BOJONG_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "MAJASETRA",
+    "code": "MAJASETRA_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "MAJAKERTA",
+    "code": "MAJAKERTA_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "PADAULUN",
+    "code": "PADAULUN_CODE",
+    "district_code": "28"
+  },
+  {
+    "name": "LAGADAR",
+    "code": "LAGADAR_CODE",
+    "district_code": "25"
+  },
+  {
+    "name": "NANJUNG",
+    "code": "NANJUNG_CODE",
+    "district_code": "25"
+  },
+  {
+    "name": "MEKARRAHAYU",
+    "code": "MEKARRAHAYU_CODE",
+    "district_code": "25"
+  },
+  {
+    "name": "RAHAYU",
+    "code": "RAHAYU_CODE",
+    "district_code": "25"
+  },
+  {
+    "name": "CIGONDEWAH HILIR",
+    "code": "CIGONDEWAH HILIR_CODE",
+    "district_code": "25"
+  },
+  {
+    "name": "SULAIMAN",
+    "code": "SULAIMAN_CODE",
+    "district_code": "26"
+  },
+  {
+    "name": "MARGAHAYU TENGAH",
+    "code": "MARGAHAYU TENGAH_CODE",
+    "district_code": "26"
+  },
+  {
+    "name": "MARGAHAYU SELATAN",
+    "code": "MARGAHAYU SELATAN_CODE",
+    "district_code": "26"
+  },
+  {
+    "name": "SUKAMENAK",
+    "code": "SUKAMENAK_CODE",
+    "district_code": "26"
+  },
+  {
+    "name": "SAYATI",
+    "code": "SAYATI_CODE",
+    "district_code": "26"
+  },
+  {
+    "name": "NAGREG",
+    "code": "NAGREG_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "CIARO",
+    "code": "CIARO_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "CIHERANG",
+    "code": "CIHERANG_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "CITAMAN",
+    "code": "CITAMAN_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "MANDALAWANGI",
+    "code": "MANDALAWANGI_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "NAGREG KENDAN",
+    "code": "NAGREG KENDAN_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "GANJAR SABAR",
+    "code": "GANJAR SABAR_CODE",
+    "district_code": "12"
+  },
+  {
+    "name": "CIPEUJEUH",
+    "code": "CIPEUJEUH_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "CIKITU",
+    "code": "CIKITU_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "CINANGGELA",
+    "code": "CINANGGELA_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "MARUYUNG",
+    "code": "MARUYUNG_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "SUKARAME",
+    "code": "SUKARAME_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "CIKAWAO",
+    "code": "CIKAWAO_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "MANDALAHAJI",
+    "code": "MANDALAHAJI_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "GIRIMULYA",
+    "code": "GIRIMULYA_CODE",
+    "district_code": "07"
+  },
+  {
+    "name": "SUKASARI",
+    "code": "SUKASARI_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "BOJONGMANGGU",
+    "code": "BOJONGMANGGU_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "RANCATUNGKU",
+    "code": "RANCATUNGKU_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "BOJONGKUNCI",
+    "code": "BOJONGKUNCI_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "RANCAMULYA",
+    "code": "RANCAMULYA_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "LANGONSARI",
+    "code": "LANGONSARI_CODE",
+    "district_code": "21"
+  },
+  {
+    "name": "PANGALENGAN",
+    "code": "PANGALENGAN_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "MARGALUYU",
+    "code": "MARGALUYU_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "WARNASARI",
+    "code": "WARNASARI_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SUKAMANAH",
+    "code": "SUKAMANAH_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "LAMAJANG",
+    "code": "LAMAJANG_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "MARGAMUKTI",
+    "code": "MARGAMUKTI_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "MARGAMULYA",
+    "code": "MARGAMULYA_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "BANJARSARI",
+    "code": "BANJARSARI_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SUKALUYU",
+    "code": "SUKALUYU_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "TRIBAKTIMULYA",
+    "code": "TRIBAKTIMULYA_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "PULOSARI",
+    "code": "PULOSARI_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "WANASUKA",
+    "code": "WANASUKA_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "MARGAMEKAR",
+    "code": "MARGAMEKAR_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "CIGENTUR",
+    "code": "CIGENTUR_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "CIPEDES",
+    "code": "CIPEDES_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "LOA",
+    "code": "LOA_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "CIJAGRA",
+    "code": "CIJAGRA_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "CIPAKU",
+    "code": "CIPAKU_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "SINDANGSARI",
+    "code": "SINDANGSARI_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "DRAWATI",
+    "code": "DRAWATI_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "SUKAMANTRI",
+    "code": "SUKAMANTRI_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "KARANGTUNGGAL",
+    "code": "KARANGTUNGGAL_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "MEKARPAWITAN",
+    "code": "MEKARPAWITAN_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "TANGSIMEKAR",
+    "code": "TANGSIMEKAR_CODE",
+    "district_code": "09"
+  },
+  {
+    "name": "PASIRJAMBU",
+    "code": "PASIRJAMBU_CODE",
+    "district_code": "03"
+  },
+  {
+    "name": "CUKANGGENTENG",
+    "code": "CUKANGGENTENG_CODE",
+    "district_code": "03"
+  },
+  {
+    "name": "CISONDARI",
+    "code": "CISONDARI_CODE",
+    "district_code": "03"
+  },
+  {
+    "name": "MEKARMAJU",
+    "code": "MEKARMAJU_CODE",
+    "district_code": "03"
+  },
+  {
+    "name": "SUGIHMUKTI",
+    "code": "SUGIHMUKTI_CODE",
+    "district_code": "03"
+  },
+  {
+    "name": "PATENGAN",
+    "code": "PATENGAN_CODE",
+    "district_code": "02"
+  },
+  {
+    "name": "SUKARESMI",
+    "code": "SUKARESMI_CODE",
+    "district_code": "02"
+  },
+  {
+    "name": "INDRAGIRI",
+    "code": "INDRAGIRI_CODE",
+    "district_code": "02"
+  },
+  {
+    "name": "CIPELAH",
+    "code": "CIPELAH_CODE",
+    "district_code": "02"
+  },
+  {
+    "name": "ALAMENDAH",
+    "code": "ALAMENDAH_CODE",
+    "district_code": "02"
+  },
+  {
+    "name": "RANCAEKEK KENCANA",
+    "code": "RANCAEKEK KENCANA_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "RANCAEKEK WETAN",
+    "code": "RANCAEKEK WETAN_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "RANCAEKEK KULON",
+    "code": "RANCAEKEK KULON_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "BOJONGSALAM",
+    "code": "BOJONGSALAM_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "BOJONGLOA",
+    "code": "BOJONGLOA_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "LINGGAR",
+    "code": "LINGGAR_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "HAURPUGUR",
+    "code": "HAURPUGUR_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "TEGAL SUMEDANG",
+    "code": "TEGAL SUMEDANG_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "SANGIANG",
+    "code": "SANGIANG_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "NANJUNG MEKAR",
+    "code": "NANJUNG MEKAR_CODE",
+    "district_code": "13"
+  },
+  {
+    "name": "RANCAKASUMBA",
+    "code": "RANCAKASUMBA_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "SOLOKANJERUK",
+    "code": "SOLOKANJERUK_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "PANYADAP",
+    "code": "PANYADAP_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "BOJONGEMAS",
+    "code": "BOJONGEMAS_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "PADAMUKTI",
+    "code": "PADAMUKTI_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "LANGENSARI",
+    "code": "LANGENSARI_CODE",
+    "district_code": "15"
+  },
+  {
+    "name": "SOREANG",
+    "code": "SOREANG_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SADU",
+    "code": "SADU_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "PANYIRAPAN",
+    "code": "PANYIRAPAN_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SUKAJADI",
+    "code": "SUKAJADI_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "PAMEKARAN",
+    "code": "PAMEKARAN_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "KARAMATMULYA",
+    "code": "KARAMATMULYA_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SUKANAGARA",
+    "code": "SUKANAGARA_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "CINGCIN",
+    "code": "CINGCIN_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "PARUNGSERAB",
+    "code": "PARUNGSERAB_CODE",
+    "district_code": "23"
+  },
+  {
+    "name": "SEKARWANGI",
+    "code": "SEKARWANGI_CODE",
+    "district_code": "23"
+  }
+]

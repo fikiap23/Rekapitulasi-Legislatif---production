@@ -1,0 +1,30 @@
+[
+  {
+    "party_id": "65a38d6eea2f7154da803e91",
+    "total_votes_party": 400,
+    "candidates": [
+      {
+        "candidate_id": "65a38d6eea2f7154da803e92",
+        "number_of_votes": 200
+      },
+      {
+        "candidate_id": "65a38d6eea2f7154da803e93",
+        "number_of_votes": 200
+      }
+    ]
+  },
+  {
+    "party_id": "65a38d6eea2f7154da803e94",
+    "total_votes_party": 598,
+    "candidates": [
+      {
+        "candidate_id": "65a38d6eea2f7154da803e95",
+        "number_of_votes": 300
+      },
+      {
+        "candidate_id": "65a38d6eea2f7154da803e96",
+        "number_of_votes": 298
+      }
+    ]
+  }
+]

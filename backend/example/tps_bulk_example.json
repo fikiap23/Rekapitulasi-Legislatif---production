@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "ARJASARI_CODE",
+    "tps": [
+      {
+        "number": "TPS 1",
+        "total_voters": 200
+      },
+      {
+        "number": "TPS 2",
+        "total_voters": 300
+      }
+    ]
+  },
+  {
+    "village_code": "LEBAKWANGI_CODE",
+    "tps": [
+      {
+        "number": "TPS 1",
+        "total_voters": 100
+      },
+      {
+        "number": "TPS 2",
+        "total_voters": 200
+      },
+      {
+        "number": "TPS 3",
+        "total_voters": 300
+      }
+    ]
+  }
+]

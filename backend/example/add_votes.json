@@ -1,0 +1,28 @@
+[
+  {
+    "code": "ABC",
+    "candidates": [
+      {
+        "candidate_id": "60a0c0f2c9a8db001f43856b",
+        "number_of_votes": 150
+      },
+      {
+        "candidate_id": "60a0c0f2c9a8db001f43856c",
+        "number_of_votes": 150
+      }
+    ]
+  },
+  {
+    "party_id": "60a0c0f2c9a8db001f43856d",
+    "candidates": [
+      {
+        "candidate_id": "60a0c0f2c9a8db001f43856e",
+        "number_of_votes": 350
+      },
+      {
+        "candidate_id": "60a0c0f2c9a8db001f43856f",
+        "number_of_votes": 345
+      }
+    ]
+  }
+]

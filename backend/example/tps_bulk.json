@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "ARJASARI",
+    "code": "ARJASARI_CODE"
+  },
+  {
+    "name": "LEBAKWANGI",
+    "code": "LEBAKWANGI_CODE"
+  },
+  {
+    "name": "BATUKARUT",
+    "code": "BATUKARUT_CODE"
+  },
+  {
+    "name": "ANCOLMEKAR",
+    "code": "ANCOLMEKAR_CODE"
+  },
+  {
+    "name": "BAROS",
+    "code": "BAROS_CODE"
+  },
+  {
+    "name": "MANGUNJAYA",
+    "code": "MANGUNJAYA_CODE"
+  },
+  {
+    "name": "MEKARJAYA",
+    "code": "MEKARJAYA_CODE"
+  },
+  {
+    "name": "PINGGIRSARI",
+    "code": "PINGGIRSARI_CODE"
+  },
+  {
+    "name": "PATROLSARI",
+    "code": "PATROLSARI_CODE"
+  },
+  {
+    "name": "RANCAKOLE",
+    "code": "RANCAKOLE_CODE"
+  },
+  {
+    "name": "WARGALUYU",
+    "code": "WARGALUYU_CODE"
+  },
+  {
+    "name": "BALEENDAH",
+    "code": "BALEENDAH_CODE"
+  },
+  {
+    "name": "ANDIR",
+    "code": "ANDIR_CODE"
+  },
+  {
+    "name": "MANGGAHANG",
+    "code": "MANGGAHANG_CODE"
+  },
+  {
+    "name": "JELEKONG",
+    "code": "JELEKONG_CODE"
+  },
+  {
+    "name": "WARGAMEKAR",
+    "code": "WARGAMEKAR_CODE"
+  },
+  {
+    "name": "BOJONGMALAKA",
+    "code": "BOJONGMALAKA_CODE"
+  },
+  {
+    "name": "RANCAMANYAR",
+    "code": "RANCAMANYAR_CODE"
+  },
+  {
+    "name": "MALAKASARI",
+    "code": "MALAKASARI_CODE"
+  },
+  {
+    "name": "KAMASAN",
+    "code": "KAMASAN_CODE"
+  },
+  {
+    "name": "BANJARAN WETAN",
+    "code": "BANJARAN WETAN_CODE"
+  },
+  {
+    "name": "BANJARAN",
+    "code": "BANJARAN_CODE"
+  },
+  {
+    "name": "CIAPUS",
+    "code": "CIAPUS_CODE"
+  },
+  {
+    "name": "SINDANGPANON",
+    "code": "SINDANGPANON_CODE"
+  },
+  {
+    "name": "KIANGROKE",
+    "code": "KIANGROKE_CODE"
+  },
+  {
+    "name": "TARAJUSARI",
+    "code": "TARAJUSARI_CODE"
+  },
+  {
+    "name": "MARGAHURIP",
+    "code": "MARGAHURIP_CODE"
+  },
+  {
+    "name": "NEGLASARI",
+    "code": "NEGLASARI_CODE"
+  },
+  {
+    "name": "PASIRMULYA",
+    "code": "PASIRMULYA_CODE"
+  },
+  {
+    "name": "LENGKONG",
+    "code": "LENGKONG_CODE"
+  },
+  {
+    "name": "BOJONGSOANG",
+    "code": "BOJONGSOANG_CODE"
+  },
+  {
+    "name": "BUAHBATU",
+    "code": "BUAHBATU_CODE"
+  },
+  {
+    "name": "CIPAGALO",
+    "code": "CIPAGALO_CODE"
+  },
+  {
+    "name": "BOJONGSARI",
+    "code": "BOJONGSARI_CODE"
+  },
+  {
+    "name": "TEGALLUAR",
+    "code": "TEGALLUAR_CODE"
+  },
+  {
+    "name": "CANGKUANG",
+    "code": "CANGKUANG_CODE"
+  },
+  {
+    "name": "CILUNCAT",
+    "code": "CILUNCAT_CODE"
+  },
+  {
+    "name": "NAGRAK",
+    "code": "NAGRAK_CODE"
+  },
+  {
+    "name": "BANDASARI",
+    "code": "BANDASARI_CODE"
+  },
+  {
+    "name": "PANANJUNG",
+    "code": "PANANJUNG_CODE"
+  },
+  {
+    "name": "JATISARI",
+    "code": "JATISARI_CODE"
+  },
+  {
+    "name": "TANJUNGSARI",
+    "code": "TANJUNGSARI_CODE"
+  },
+  {
+    "name": "CICALENGKA KULON",
+    "code": "CICALENGKA KULON_CODE"
+  },
+  {
+    "name": "CICALENGKA WETAN",
+    "code": "CICALENGKA WETAN_CODE"
+  },
+  {
+    "name": "BABAKAN PEUTEUY",
+    "code": "BABAKAN PEUTEUY_CODE"
+  },
+  {
+    "name": "CIKUYA",
+    "code": "CIKUYA_CODE"
+  },
+  {
+    "name": "DAMPIT",
+    "code": "DAMPIT_CODE"
+  },
+  {
+    "name": "MARGAASIH",
+    "code": "MARGAASIH_CODE"
+  },
+  {
+    "name": "NARAWITA",
+    "code": "NARAWITA_CODE"
+  },
+  {
+    "name": "PANENJOAN",
+    "code": "PANENJOAN_CODE"
+  },
+  {
+    "name": "TANJUNGWANGI",
+    "code": "TANJUNGWANGI_CODE"
+  },
+  {
+    "name": "TENJOLAYA",
+    "code": "TENJOLAYA_CODE"
+  },
+  {
+    "name": "WALUYA",
+    "code": "WALUYA_CODE"
+  },
+  {
+    "name": "NAGROG",
+    "code": "NAGROG_CODE"
+  },
+  {
+    "name": "MANDALASARI",
+    "code": "MANDALASARI_CODE"
+  },
+  {
+    "name": "CIKANCUNG",
+    "code": "CIKANCUNG_CODE"
+  },
+  {
+    "name": "CIKASUNGKA",
+    "code": "CIKASUNGKA_CODE"
+  },
+  {
+    "name": "CIHANYIR",
+    "code": "CIHANYIR_CODE"
+  },
+  {
+    "name": "CILULUK",
+    "code": "CILULUK_CODE"
+  },
+  {
+    "name": "HEGARMANAH",
+    "code": "HEGARMANAH_CODE"
+  },
+  {
+    "name": "MEKARLAKSANA",
+    "code": "MEKARLAKSANA_CODE"
+  },
+  {
+    "name": "TANJUNGLAYA",
+    "code": "TANJUNGLAYA_CODE"
+  },
+  {
+    "name": "SRIRAHAYU",
+    "code": "SRIRAHAYU_CODE"
+  },
+  {
+    "name": "JATIENDAH",
+    "code": "JATIENDAH_CODE"
+  },
+  {
+    "name": "CILENGKRANG",
+    "code": "CILENGKRANG_CODE"
+  },
+  {
+    "name": "CIPANJALU",
+    "code": "CIPANJALU_CODE"
+  },
+  {
+    "name": "MELATIWANGI",
+    "code": "MELATIWANGI_CODE"
+  },
+  {
+    "name": "CIPOREAT",
+    "code": "CIPOREAT_CODE"
+  },
+  {
+    "name": "GIRIMEKAR",
+    "code": "GIRIMEKAR_CODE"
+  },
+  {
+    "name": "CILEUNYI KULON",
+    "code": "CILEUNYI KULON_CODE"
+  },
+  {
+    "name": "CILEUNYI WETAN",
+    "code": "CILEUNYI WETAN_CODE"
+  },
+  {
+    "name": "CIMEKAR",
+    "code": "CIMEKAR_CODE"
+  },
+  {
+    "name": "CINUNUK",
+    "code": "CINUNUK_CODE"
+  },
+  {
+    "name": "CIBIRU HILIR",
+    "code": "CIBIRU HILIR_CODE"
+  },
+  {
+    "name": "CIBIRU WETAN",
+    "code": "CIBIRU WETAN_CODE"
+  },
+  {
+    "name": "CIMAUNG",
+    "code": "CIMAUNG_CODE"
+  },
+  {
+    "name": "JAGABAYA",
+    "code": "JAGABAYA_CODE"
+  },
+  {
+    "name": "PASIRHUNI",
+    "code": "PASIRHUNI_CODE"
+  },
+  {
+    "name": "CAMPAKAMULYA",
+    "code": "CAMPAKAMULYA_CODE"
+  },
+  {
+    "name": "CIPINANG",
+    "code": "CIPINANG_CODE"
+  },
+  {
+    "name": "MEKARSARI",
+    "code": "MEKARSARI_CODE"
+  },
+  {
+    "name": "SUKAMAJU",
+    "code": "SUKAMAJU_CODE"
+  },
+  {
+    "name": "CIKALONG",
+    "code": "CIKALONG_CODE"
+  },
+  {
+    "name": "MALASARI",
+    "code": "MALASARI_CODE"
+  },
+  {
+    "name": "WARJABAKTI",
+    "code": "WARJABAKTI_CODE"
+  },
+  {
+    "name": "PADASUKA",
+    "code": "PADASUKA_CODE"
+  },
+  {
+    "name": "CIBEUNYING",
+    "code": "CIBEUNYING_CODE"
+  },
+  {
+    "name": "CIMENYAN",
+    "code": "CIMENYAN_CODE"
+  },
+  {
+    "name": "MANDALAMEKAR",
+    "code": "MANDALAMEKAR_CODE"
+  },
+  {
+    "name": "CIKADUT",
+    "code": "CIKADUT_CODE"
+  },
+  {
+    "name": "CIBURIAL",
+    "code": "CIBURIAL_CODE"
+  },
+  {
+    "name": "SINDANGLAYA",
+    "code": "SINDANGLAYA_CODE"
+  },
+  {
+    "name": "MEKARSALUYU",
+    "code": "MEKARSALUYU_CODE"
+  },
+  {
+    "name": "MEKARMANIK",
+    "code": "MEKARMANIK_CODE"
+  },
+  {
+    "name": "CIPARAY",
+    "code": "CIPARAY_CODE"
+  },
+  {
+    "name": "GUNUNGLEUTIK",
+    "code": "GUNUNGLEUTIK_CODE"
+  },
+  {
+    "name": "CIKONENG",
+    "code": "CIKONENG_CODE"
+  },
+  {
+    "name": "CIHEULANG",
+    "code": "CIHEULANG_CODE"
+  },
+  {
+    "name": "PAKUTANDANG",
+    "code": "PAKUTANDANG_CODE"
+  },
+  {
+    "name": "SUMBERSARI",
+    "code": "SUMBERSARI_CODE"
+  },
+  {
+    "name": "MANGGUNGHARJA",
+    "code": "MANGGUNGHARJA_CODE"
+  },
+  {
+    "name": "SAGARACIPTA",
+    "code": "SAGARACIPTA_CODE"
+  },
+  {
+    "name": "SARIMAHI",
+    "code": "SARIMAHI_CODE"
+  },
+  {
+    "name": "SERANGMEKAR",
+    "code": "SERANGMEKAR_CODE"
+  },
+  {
+    "name": "BABAKAN",
+    "code": "BABAKAN_CODE"
+  },
+  {
+    "name": "BUMIWANGI",
+    "code": "BUMIWANGI_CODE"
+  },
+  {
+    "name": "LEBAKMUNCANG",
+    "code": "LEBAKMUNCANG_CODE"
+  },
+  {
+    "name": "CIWIDEY",
+    "code": "CIWIDEY_CODE"
+  },
+  {
+    "name": "NENGKELAN",
+    "code": "NENGKELAN_CODE"
+  },
+  {
+    "name": "PANUNDAAN",
+    "code": "PANUNDAAN_CODE"
+  },
+  {
+    "name": "PANYOCOKAN",
+    "code": "PANYOCOKAN_CODE"
+  },
+  {
+    "name": "RAWABOGO",
+    "code": "RAWABOGO_CODE"
+  },
+  {
+    "name": "SUKAWENING",
+    "code": "SUKAWENING_CODE"
+  },
+  {
+    "name": "PASAWAHAN",
+    "code": "PASAWAHAN_CODE"
+  },
+  {
+    "name": "DAYEUHKOLOT",
+    "code": "DAYEUHKOLOT_CODE"
+  },
+  {
+    "name": "CANGKUANG WETAN",
+    "code": "CANGKUANG WETAN_CODE"
+  },
+  {
+    "name": "CANGKUANG KULON",
+    "code": "CANGKUANG KULON_CODE"
+  },
+  {
+    "name": "SUKAPURA",
+    "code": "SUKAPURA_CODE"
+  },
+  {
+    "name": "CITEUREUP",
+    "code": "CITEUREUP_CODE"
+  },
+  {
+    "name": "IBUN",
+    "code": "IBUN_CODE"
+  },
+  {
+    "name": "LAKSANA",
+    "code": "LAKSANA_CODE"
+  },
+  {
+    "name": "DUKUH",
+    "code": "DUKUH_CODE"
+  },
+  {
+    "name": "TALUN",
+    "code": "TALUN_CODE"
+  },
+  {
+    "name": "PANGGUH",
+    "code": "PANGGUH_CODE"
+  },
+  {
+    "name": "LAMPEGAN",
+    "code": "LAMPEGAN_CODE"
+  },
+  {
+    "name": "MEKARWANGI",
+    "code": "MEKARWANGI_CODE"
+  },
+  {
+    "name": "SUDI",
+    "code": "SUDI_CODE"
+  },
+  {
+    "name": "TANGGULUN",
+    "code": "TANGGULUN_CODE"
+  },
+  {
+    "name": "CIBEET",
+    "code": "CIBEET_CODE"
+  },
+  {
+    "name": "KARYALAKSANA",
+    "code": "KARYALAKSANA_CODE"
+  },
+  {
+    "name": "SANGKANHURIP",
+    "code": "SANGKANHURIP_CODE"
+  },
+  {
+    "name": "KATAPANG",
+    "code": "KATAPANG_CODE"
+  },
+  {
+    "name": "GANDASARI",
+    "code": "GANDASARI_CODE"
+  },
+  {
+    "name": "SUKAMUKTI",
+    "code": "SUKAMUKTI_CODE"
+  },
+  {
+    "name": "CILAMPENI",
+    "code": "CILAMPENI_CODE"
+  },
+  {
+    "name": "PANGAUBAN",
+    "code": "PANGAUBAN_CODE"
+  },
+  {
+    "name": "BANYUSARI",
+    "code": "BANYUSARI_CODE"
+  },
+  {
+    "name": "CIBEUREUM",
+    "code": "CIBEUREUM_CODE"
+  },
+  {
+    "name": "SANTOSA",
+    "code": "SANTOSA_CODE"
+  },
+  {
+    "name": "TARUMAJAYA",
+    "code": "TARUMAJAYA_CODE"
+  },
+  {
+    "name": "NEGLAWANGI",
+    "code": "NEGLAWANGI_CODE"
+  },
+  {
+    "name": "CIHAWUK",
+    "code": "CIHAWUK_CODE"
+  },
+  {
+    "name": "CIKEMBANG",
+    "code": "CIKEMBANG_CODE"
+  },
+  {
+    "name": "RESMI TINGAL",
+    "code": "RESMI TINGAL_CODE"
+  },
+  {
+    "name": "JELEGONG",
+    "code": "JELEGONG_CODE"
+  },
+  {
+    "name": "PAMEUNTASAN",
+    "code": "PAMEUNTASAN_CODE"
+  },
+  {
+    "name": "KOPO",
+    "code": "KOPO_CODE"
+  },
+  {
+    "name": "CIBODAS",
+    "code": "CIBODAS_CODE"
+  },
+  {
+    "name": "KUTAWARINGIN",
+    "code": "KUTAWARINGIN_CODE"
+  },
+  {
+    "name": "SUKAMULYA",
+    "code": "SUKAMULYA_CODE"
+  },
+  {
+    "name": "BUNINAGARA",
+    "code": "BUNINAGARA_CODE"
+  },
+  {
+    "name": "GAJAH MEKAR",
+    "code": "GAJAH MEKAR_CODE"
+  },
+  {
+    "name": "CILAME",
+    "code": "CILAME_CODE"
+  },
+  {
+    "name": "MAJALAYA",
+    "code": "MAJALAYA_CODE"
+  },
+  {
+    "name": "WANGISAGARA",
+    "code": "WANGISAGARA_CODE"
+  },
+  {
+    "name": "BIRU",
+    "code": "BIRU_CODE"
+  },
+  {
+    "name": "PADAMULYA",
+    "code": "PADAMULYA_CODE"
+  },
+  {
+    "name": "BOJONG",
+    "code": "BOJONG_CODE"
+  },
+  {
+    "name": "MAJASETRA",
+    "code": "MAJASETRA_CODE"
+  },
+  {
+    "name": "MAJAKERTA",
+    "code": "MAJAKERTA_CODE"
+  },
+  {
+    "name": "PADAULUN",
+    "code": "PADAULUN_CODE"
+  },
+  {
+    "name": "LAGADAR",
+    "code": "LAGADAR_CODE"
+  },
+  {
+    "name": "NANJUNG",
+    "code": "NANJUNG_CODE"
+  },
+  {
+    "name": "MEKARRAHAYU",
+    "code": "MEKARRAHAYU_CODE"
+  },
+  {
+    "name": "RAHAYU",
+    "code": "RAHAYU_CODE"
+  },
+  {
+    "name": "CIGONDEWAH HILIR",
+    "code": "CIGONDEWAH HILIR_CODE"
+  },
+  {
+    "name": "SULAIMAN",
+    "code": "SULAIMAN_CODE"
+  },
+  {
+    "name": "MARGAHAYU TENGAH",
+    "code": "MARGAHAYU TENGAH_CODE"
+  },
+  {
+    "name": "MARGAHAYU SELATAN",
+    "code": "MARGAHAYU SELATAN_CODE"
+  },
+  {
+    "name": "SUKAMENAK",
+    "code": "SUKAMENAK_CODE"
+  },
+  {
+    "name": "SAYATI",
+    "code": "SAYATI_CODE"
+  },
+  {
+    "name": "NAGREG",
+    "code": "NAGREG_CODE"
+  },
+  {
+    "name": "CIARO",
+    "code": "CIARO_CODE"
+  },
+  {
+    "name": "CIHERANG",
+    "code": "CIHERANG_CODE"
+  },
+  {
+    "name": "CITAMAN",
+    "code": "CITAMAN_CODE"
+  },
+  {
+    "name": "MANDALAWANGI",
+    "code": "MANDALAWANGI_CODE"
+  },
+  {
+    "name": "NAGREG KENDAN",
+    "code": "NAGREG KENDAN_CODE"
+  },
+  {
+    "name": "GANJAR SABAR",
+    "code": "GANJAR SABAR_CODE"
+  },
+  {
+    "name": "CIPEUJEUH",
+    "code": "CIPEUJEUH_CODE"
+  },
+  {
+    "name": "CIKITU",
+    "code": "CIKITU_CODE"
+  },
+  {
+    "name": "CINANGGELA",
+    "code": "CINANGGELA_CODE"
+  },
+  {
+    "name": "MARUYUNG",
+    "code": "MARUYUNG_CODE"
+  },
+  {
+    "name": "SUKARAME",
+    "code": "SUKARAME_CODE"
+  },
+  {
+    "name": "CIKAWAO",
+    "code": "CIKAWAO_CODE"
+  },
+  {
+    "name": "MANDALAHAJI",
+    "code": "MANDALAHAJI_CODE"
+  },
+  {
+    "name": "GIRIMULYA",
+    "code": "GIRIMULYA_CODE"
+  },
+  {
+    "name": "SUKASARI",
+    "code": "SUKASARI_CODE"
+  },
+  {
+    "name": "BOJONGMANGGU",
+    "code": "BOJONGMANGGU_CODE"
+  },
+  {
+    "name": "RANCATUNGKU",
+    "code": "RANCATUNGKU_CODE"
+  },
+  {
+    "name": "BOJONGKUNCI",
+    "code": "BOJONGKUNCI_CODE"
+  },
+  {
+    "name": "RANCAMULYA",
+    "code": "RANCAMULYA_CODE"
+  },
+  {
+    "name": "LANGONSARI",
+    "code": "LANGONSARI_CODE"
+  },
+  {
+    "name": "PANGALENGAN",
+    "code": "PANGALENGAN_CODE"
+  },
+  {
+    "name": "MARGALUYU",
+    "code": "MARGALUYU_CODE"
+  },
+  {
+    "name": "WARNASARI",
+    "code": "WARNASARI_CODE"
+  },
+  {
+    "name": "SUKAMANAH",
+    "code": "SUKAMANAH_CODE"
+  },
+  {
+    "name": "LAMAJANG",
+    "code": "LAMAJANG_CODE"
+  },
+  {
+    "name": "MARGAMUKTI",
+    "code": "MARGAMUKTI_CODE"
+  },
+  {
+    "name": "MARGAMULYA",
+    "code": "MARGAMULYA_CODE"
+  },
+  {
+    "name": "BANJARSARI",
+    "code": "BANJARSARI_CODE"
+  },
+  {
+    "name": "SUKALUYU",
+    "code": "SUKALUYU_CODE"
+  },
+  {
+    "name": "TRIBAKTIMULYA",
+    "code": "TRIBAKTIMULYA_CODE"
+  },
+  {
+    "name": "PULOSARI",
+    "code": "PULOSARI_CODE"
+  },
+  {
+    "name": "WANASUKA",
+    "code": "WANASUKA_CODE"
+  },
+  {
+    "name": "MARGAMEKAR",
+    "code": "MARGAMEKAR_CODE"
+  },
+  {
+    "name": "CIGENTUR",
+    "code": "CIGENTUR_CODE"
+  },
+  {
+    "name": "CIPEDES",
+    "code": "CIPEDES_CODE"
+  },
+  {
+    "name": "LOA",
+    "code": "LOA_CODE"
+  },
+  {
+    "name": "CIJAGRA",
+    "code": "CIJAGRA_CODE"
+  },
+  {
+    "name": "CIPAKU",
+    "code": "CIPAKU_CODE"
+  },
+  {
+    "name": "SINDANGSARI",
+    "code": "SINDANGSARI_CODE"
+  },
+  {
+    "name": "DRAWATI",
+    "code": "DRAWATI_CODE"
+  },
+  {
+    "name": "SUKAMANTRI",
+    "code": "SUKAMANTRI_CODE"
+  },
+  {
+    "name": "KARANGTUNGGAL",
+    "code": "KARANGTUNGGAL_CODE"
+  },
+  {
+    "name": "MEKARPAWITAN",
+    "code": "MEKARPAWITAN_CODE"
+  },
+  {
+    "name": "TANGSIMEKAR",
+    "code": "TANGSIMEKAR_CODE"
+  },
+  {
+    "name": "PASIRJAMBU",
+    "code": "PASIRJAMBU_CODE"
+  },
+  {
+    "name": "CUKANGGENTENG",
+    "code": "CUKANGGENTENG_CODE"
+  },
+  {
+    "name": "CISONDARI",
+    "code": "CISONDARI_CODE"
+  },
+  {
+    "name": "MEKARMAJU",
+    "code": "MEKARMAJU_CODE"
+  },
+  {
+    "name": "SUGIHMUKTI",
+    "code": "SUGIHMUKTI_CODE"
+  },
+  {
+    "name": "PATENGAN",
+    "code": "PATENGAN_CODE"
+  },
+  {
+    "name": "SUKARESMI",
+    "code": "SUKARESMI_CODE"
+  },
+  {
+    "name": "INDRAGIRI",
+    "code": "INDRAGIRI_CODE"
+  },
+  {
+    "name": "CIPELAH",
+    "code": "CIPELAH_CODE"
+  },
+  {
+    "name": "ALAMENDAH",
+    "code": "ALAMENDAH_CODE"
+  },
+  {
+    "name": "RANCAEKEK KENCANA",
+    "code": "RANCAEKEK KENCANA_CODE"
+  },
+  {
+    "name": "RANCAEKEK WETAN",
+    "code": "RANCAEKEK WETAN_CODE"
+  },
+  {
+    "name": "RANCAEKEK KULON",
+    "code": "RANCAEKEK KULON_CODE"
+  },
+  {
+    "name": "BOJONGSALAM",
+    "code": "BOJONGSALAM_CODE"
+  },
+  {
+    "name": "BOJONGLOA",
+    "code": "BOJONGLOA_CODE"
+  },
+  {
+    "name": "LINGGAR",
+    "code": "LINGGAR_CODE"
+  },
+  {
+    "name": "HAURPUGUR",
+    "code": "HAURPUGUR_CODE"
+  },
+  {
+    "name": "TEGAL SUMEDANG",
+    "code": "TEGAL SUMEDANG_CODE"
+  },
+  {
+    "name": "SANGIANG",
+    "code": "SANGIANG_CODE"
+  },
+  {
+    "name": "NANJUNG MEKAR",
+    "code": "NANJUNG MEKAR_CODE"
+  },
+  {
+    "name": "RANCAKASUMBA",
+    "code": "RANCAKASUMBA_CODE"
+  },
+  {
+    "name": "SOLOKANJERUK",
+    "code": "SOLOKANJERUK_CODE"
+  },
+  {
+    "name": "PANYADAP",
+    "code": "PANYADAP_CODE"
+  },
+  {
+    "name": "BOJONGEMAS",
+    "code": "BOJONGEMAS_CODE"
+  },
+  {
+    "name": "PADAMUKTI",
+    "code": "PADAMUKTI_CODE"
+  },
+  {
+    "name": "LANGENSARI",
+    "code": "LANGENSARI_CODE"
+  },
+  {
+    "name": "SOREANG",
+    "code": "SOREANG_CODE"
+  },
+  {
+    "name": "SADU",
+    "code": "SADU_CODE"
+  },
+  {
+    "name": "PANYIRAPAN",
+    "code": "PANYIRAPAN_CODE"
+  },
+  {
+    "name": "SUKAJADI",
+    "code": "SUKAJADI_CODE"
+  },
+  {
+    "name": "PAMEKARAN",
+    "code": "PAMEKARAN_CODE"
+  },
+  {
+    "name": "KARAMATMULYA",
+    "code": "KARAMATMULYA_CODE"
+  },
+  {
+    "name": "SUKANAGARA",
+    "code": "SUKANAGARA_CODE"
+  },
+  {
+    "name": "CINGCIN",
+    "code": "CINGCIN_CODE"
+  },
+  {
+    "name": "PARUNGSERAB",
+    "code": "PARUNGSERAB_CODE"
+  },
+  {
+    "name": "SEKARWANGI",
+    "code": "SEKARWANGI_CODE"
+  }
+]

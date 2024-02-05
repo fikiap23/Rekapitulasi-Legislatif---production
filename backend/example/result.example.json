@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "code": 200,
+  "message": "Voting results for the district retrieved successfully",
+  "data": [
+    {
+      "_id": "65a49009d27e9b01b7fd1c8c",
+      "village_id": "65a3db6a4d70c481327d0d20",
+      "__v": 0,
+      "createdAt": "2024-01-15T01:53:12.201Z",
+      "total_invalid_ballots": 1,
+      "total_valid_ballots": 499,
+      "updatedAt": "2024-01-15T01:53:12.201Z",
+      "valid_ballots_detail": [
+        {
+          "party_id": "65a38d6eea2f7154da803e91",
+          "total_votes_party": 200,
+          "candidates": [
+            {
+              "candidate_id": "65a38d6eea2f7154da803e92",
+              "number_of_votes": 100,
+              "_id": "65a490085427d52f52022e9c"
+            },
+            {
+              "candidate_id": "65a38d6eea2f7154da803e93",
+              "number_of_votes": 100,
+              "_id": "65a490085427d52f52022e9d"
+            }
+          ],
+          "_id": "65a490085427d52f52022e9b"
+        },
+        {
+          "party_id": "65a38d6eea2f7154da803e94",
+          "total_votes_party": 299,
+          "candidates": [
+            {
+              "candidate_id": "65a38d6eea2f7154da803e95",
+              "number_of_votes": 150,
+              "_id": "65a490085427d52f52022e9f"
+            },
+            {
+              "candidate_id": "65a38d6eea2f7154da803e96",
+              "number_of_votes": 149,
+              "_id": "65a490085427d52f52022ea0"
+            }
+          ],
+          "_id": "65a490085427d52f52022e9e"
+        }
+      ]
+    },
+    {
+      "_id": "65a48d88d27e9b01b7f0338f",
+      "village_id": "65a3db6a4d70c481327d0d21",
+      "__v": 0,
+      "createdAt": "2024-01-15T01:42:32.017Z",
+      "total_invalid_ballots": 201,
+      "total_valid_ballots": 499,
+      "updatedAt": "2024-01-15T01:42:32.017Z",
+      "valid_ballots_detail": [
+        {
+          "party_id": "65a38d6eea2f7154da803e91",
+          "total_votes_party": 200,
+          "candidates": [
+            {
+              "candidate_id": "65a38d6eea2f7154da803e92",
+              "number_of_votes": 100,
+              "_id": "65a48d8805f24f997569b3d9"
+            },
+            {
+              "candidate_id": "65a38d6eea2f7154da803e93",
+              "number_of_votes": 100,
+              "_id": "65a48d8805f24f997569b3da"
+            }
+          ],
+          "_id": "65a48d8805f24f997569b3d8"
+        },
+        {
+          "party_id": "65a38d6eea2f7154da803e94",
+          "total_votes_party": 299,
+          "candidates": [
+            {
+              "candidate_id": "65a38d6eea2f7154da803e95",
+              "number_of_votes": 150,
+              "_id": "65a48d8805f24f997569b3dc"
+            },
+            {
+              "candidate_id": "65a38d6eea2f7154da803e96",
+              "number_of_votes": 149,
+              "_id": "65a48d8805f24f997569b3dd"
+            }
+          ],
+          "_id": "65a48d8805f24f997569b3db"
+        }
+      ]
+    }
+  ],
+  "error": null
+}
