@@ -58,3 +58,8 @@ cara deploy di vps
 26. sudo certbot renew --dry-run
 27. npm install -g forever
 28. forever start --uid="rekapitulasi" --sourceDir="/root/apps/rekapitulasi/dest/" backend/server.js
+29. pindah ke local komputer, masuk ke project dan tautkan remote ssh repo
+30. git remote add rekapitulasi ssh://user@ip/root/apps/rekapitulasi/repo/
+31. Lakukan perubahan pada repo, misal update readme atau apapun
+32. jalankan: git add . && git commit -m "message" && git push rekapitulasi
+33. buat deploy di vps
