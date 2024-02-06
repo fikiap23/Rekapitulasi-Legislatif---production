@@ -20,9 +20,9 @@ const historyController = {
         return apiHandler({
           res,
           status: 'error',
-          code: 404,
+          code: 200,
           message: 'History tps not found',
-          data: null,
+          data: [],
           error: null,
         })
       }
